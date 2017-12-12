@@ -1,4 +1,15 @@
 %Inclass assignment 7. 
+1a 100
+1b 100
+1c 100
+1d 100
+1e 100
+2a100
+2b 100
+2c 100
+2d 100
+overall 100
+
 % 1. The gene Cdx2 is a crucial transcription factor involved in number of
 % developmental stages. Use the UCSC genome browser to answer the following questions
 % about it:
